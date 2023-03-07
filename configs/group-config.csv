@@ -53,9 +53,6 @@ https://github.com/AY2223S2-CS2113-T13-2/tp.git,test-code,src/test/**
 https://github.com/AY2223S2-CS2113-W13-1/tp.git,docs,**.md;**.puml
 https://github.com/AY2223S2-CS2113-W13-1/tp.git,functional-code,src/main/**
 https://github.com/AY2223S2-CS2113-W13-1/tp.git,test-code,src/test/**
-https://github.com/AY2223S2-CS2113-W13-3/tp.git,docs,**.md;**.puml
-https://github.com/AY2223S2-CS2113-W13-3/tp.git,functional-code,src/main/**
-https://github.com/AY2223S2-CS2113-W13-3/tp.git,test-code,src/test/**
 https://github.com/AY2223S2-CS2113-T15-2/tp.git,docs,**.md;**.puml
 https://github.com/AY2223S2-CS2113-T15-2/tp.git,functional-code,src/main/**
 https://github.com/AY2223S2-CS2113-T15-2/tp.git,test-code,src/test/**
@@ -83,6 +80,9 @@ https://github.com/AY2223S2-CS2113-W13-4/tp.git,test-code,src/test/**
 https://github.com/AY2223S2-CS2113-T11-2/tp.git,docs,**.md;**.puml
 https://github.com/AY2223S2-CS2113-T11-2/tp.git,functional-code,src/main/**
 https://github.com/AY2223S2-CS2113-T11-2/tp.git,test-code,src/test/**
+https://github.com/AY2223S2-CS2113-W13-3/tp.git,docs,**.md;**.puml
+https://github.com/AY2223S2-CS2113-W13-3/tp.git,functional-code,src/main/**
+https://github.com/AY2223S2-CS2113-W13-3/tp.git,test-code,src/test/**
 https://github.com/AY2223S2-CS2113-W15-2/tp.git,docs,**.md;**.puml
 https://github.com/AY2223S2-CS2113-W15-2/tp.git,functional-code,src/main/**
 https://github.com/AY2223S2-CS2113-W15-2/tp.git,test-code,src/test/**
